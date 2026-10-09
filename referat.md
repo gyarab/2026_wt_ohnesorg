@@ -2,7 +2,7 @@
 
 Grace Murrayová Hopperová (9. prosince 1906 New York – 1. ledna 1992 Arlington County) byla americká matematička, informatička a důstojnice námořnictva Spojených států. Byla programátorkou prvních počítačů ve firmě Harvard Mark I a vyvinula první kompilátor pro počítačový programovací jazyk vůbec. Díky šíři jejích schopností byla někdy označována jako „úžasná Grace“ (Amazing Grace). Námořní hodnost kontradmirála v záloze dosáhla v roce 1986 jako první žena v historii.
 
-![Grace Hooper](https://cs.wikipedia.org/wiki/Grace_Hopperová#/media/Soubor:Commodore_Grace_M._Hopper,_USN_(covered).jpg)
+![Grace Hooper](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/960px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg?utm_source=cs.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
  
 # Životopis
 ## Mládí a vzdělání
