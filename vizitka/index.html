@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="cs" data-bs-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wanda Maximovová</title>
+    <style>
+        body {
+            background-color: #f69797;
+            color: #180101;
+            margin: 0;
+            padding: 0;
+
+        }
+
+        h1 {
+            margin: 0;
+
+        }
+
+        .wrapper {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .vizitka {
+            background-color: rgb(119, 47, 47);
+            width: 300px;
+            border-radius: 10px;
+            padding: 20px;
+        }
+
+        .profile-img {
+            width: 200px;
+            vertical-align: middle;
+        }
+
+        button {
+            padding: 20px 40px;
+            color: azure;
+            border-radius: 5px;
+            border: 0;
+            background: linear-gradient(45deg, rgb(238, 197, 197), rgb(59, 3, 3));
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="vizitka">
+            <h1>Wanda Maximovová</h1>
+            <img class="profile-img" src="wandicka.jpg" alt="Wanda Maximovová">
+            <p>Vášnivá čarodějka a členka Avengers.</p>
+             <p>Co mám ráda</p>
+            <ul>
+                <li>Rodinu</li>
+                <li>Paprikáč</li>
+                <li>Čáry máry</li>
+            </ul>
+            <button onclick="kontakt();">Find me on DarkGPT</button>
+            
+            
+        </div>
+    </div>
+</body>
+<script>
+    function kontakt() {
+        alert('Pardon, teď nemohu. Uvidíme se v Doomsday.')
+    }
+</script>
+
+</html>
